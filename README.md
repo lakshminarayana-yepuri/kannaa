@@ -1,1 +1,66 @@
 # kannaa
+# HEADING1
+## HEADING2
+### HEADING3
+#### HEADING4
+##### HEADING5
+###### HEADING6
+**BOLD TEXT**
+*ITALIC*
+***BOLD AND ITALIC***
+**UNORDERED DATA**
+- INTRO
+- INSTALLATION 
+- BASICS
+- GIT
+- GITHUB
+
+
+- **ORDERED DATA**
+- 1 . INTRO   
+-   a. INSTALLATION  
+- 3 . BASICS  
+- 4 .GIT  
+- 5 . GITHUB  
+- 6 . CLONING   
+- 7 . CONTRINUTING   
+-    a. FORK  
+-    b. CLONE    
+-    c. CREATE NEW BRANCH 
+
+
+
+
+
+**IMAGE**
+![GITLOGO](https://wallpapercave.com/wp/wp2116174.jpg)
+
+
+**LINK**
+[GITHUB](HTTP://GITHUB.COM/)
+
+
+**TABLE**
+|NAME|BRANCH|COLLEGE|
+|----|------|-------|
+|ABC|CSE|VRSEC|
+|XYZ|IT|VRSEC|
+
+
+
+**CODE**
+```
+DEF ISEVEN(N);
+IF N%2==0;
+RETURN TRUE;
+ELSE:
+RETURN FALSE
+```
+~~`KANNA IS DELETED
+~~`FILE GIVEN IS ERASED~~`
+
+**EMOJI**
+
+:heart_eyes:
+
+
