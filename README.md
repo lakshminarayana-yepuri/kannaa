@@ -43,7 +43,7 @@
 **TABLE**
 NAME|BRANCH|COLLEGE
 ----|------|-------
-|ABC|CSE|VRSEC|
+ABC|CSE|VRSEC
 XYZ|IT|VRSEC
 
 
