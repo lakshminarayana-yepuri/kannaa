@@ -41,10 +41,10 @@
 
 
 **TABLE**
-|NAME|BRANCH|COLLEGE|
-|----|------|-------|
+NAME|BRANCH|COLLEGE
+----|------|-------
 |ABC|CSE|VRSEC|
-|XYZ|IT|VRSEC|
+XYZ|IT|VRSEC
 
 
 
